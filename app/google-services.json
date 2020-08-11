@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97456539538",
+    "firebase_url": "https://trav-meet.firebaseio.com",
+    "project_id": "trav-meet",
+    "storage_bucket": "trav-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97456539538:android:5db0ca7ccad14f9114a34b",
+        "android_client_info": {
+          "package_name": "ml.dstudios.travmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97456539538-3hb83a0uv3nonb1db50t7j96b7jci3ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6D7LiSy0Dyd3CP27M6Yo6zF1YYoatPQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97456539538-3hb83a0uv3nonb1db50t7j96b7jci3ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
